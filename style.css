@@ -1,0 +1,23 @@
+body{
+    font-family: 'Bruno Ace', cursive;
+background-image: url(https://images4.alphacoders.com/592/592367.jpg);
+background-origin: unset;
+}
+#container{
+    width: 80%;
+    margin: 0% auto;
+}
+img{
+    width: 30%;
+    margin: 1,4%;
+}
+h1{
+    width: 26%;
+    font-size: 40px;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 39%;
+    text-transform: uppercase;
+    border-bottom: 2px solid red;
+    padding-bottom: 2%;
+}
